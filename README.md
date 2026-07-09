@@ -94,89 +94,11 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 <img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
+
 ---
-<!--
-## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kartik-Borse&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik-Borse&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kartik-Borse&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik-Borse&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
--->
-<!--
----
-## 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/kartikborse/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/user/kartikborse/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
--->
-<!--
-## 💬 Favorite Quote
-
-> *"Controlling complexity is the essence of computer programming."*
->
-> **— Brian Kernighan**
-
----
--->
-<!-- ## ⚡ Fun Fact
-
-> 💡 I enjoy transforming ideas into scalable web applications and continuously exploring new technologies to become a better developer.
-
---- -->
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/Kartik-Borse/Kartik-Borse/output/github-contribution-grid-snake.svg"/>
-</p>
-
-<div align="center">
--->
 ## ⭐ Thanks for Visiting!
 
 ### Always open to meaningful collaborations, innovative ideas, and exciting opportunities.
