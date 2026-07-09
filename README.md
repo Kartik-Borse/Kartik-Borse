@@ -32,10 +32,14 @@ Building modern, scalable, and user-centric web applications with the MERN Stack
 <a href="https://www.linkedin.com/in/kartikborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/kartikborse"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 ---
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -99,6 +103,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </table>
 
 ---
+<!--
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -126,6 +131,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </div>
 
 ---
+-->
 <!--
 ---
 ## 💻 Coding Profiles
@@ -158,6 +164,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 
 ---
 -->
+<!--
 ## 💬 Favorite Quote
 
 > *"Controlling complexity is the essence of computer programming."*
@@ -165,6 +172,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 > **— Brian Kernighan**
 
 ---
+-->
 <!-- ## ⚡ Fun Fact
 
 > 💡 I enjoy transforming ideas into scalable web applications and continuously exploring new technologies to become a better developer.
@@ -174,15 +182,6 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 <img src="https://raw.githubusercontent.com/Kartik-Borse/Kartik-Borse/output/github-contribution-grid-snake.svg"/>
 </p>
 
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
