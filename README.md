@@ -126,7 +126,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </div>
 
 ---
-
+<!--
 ---
 ## 💻 Coding Profiles
 
@@ -157,6 +157,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </div>
 
 ---
+-->
 ## 💬 Favorite Quote
 
 > *"Controlling complexity is the essence of computer programming."*
