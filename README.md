@@ -24,34 +24,6 @@ Building modern, scalable, and user-centric web applications with the MERN Stack
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="mailto:kartikborse.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/Kartik-Borse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartikborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/u/kartikborse"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-</p>
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
----
-
-
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Platforms** |
-| :---: | :---: | :---: | :---: | :---: |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
-</div>
-
----
 ## 🚀 Featured Projects
 
 <table>
@@ -102,6 +74,26 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </tr>
 </table>
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend** | **Databases** | **Tools & Platforms** |
+| :---: | :---: | :---: | :---: | :---: |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)<br>![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)<br>![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)<br>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+</div>
+<p align="center">
+<a href="mailto:kartikborse.official@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/Kartik-Borse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartikborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/kartikborse"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
 ---
 <!--
 ## 📈 GitHub Analytics
@@ -178,12 +170,13 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 > 💡 I enjoy transforming ideas into scalable web applications and continuously exploring new technologies to become a better developer.
 
 --- -->
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/Kartik-Borse/Kartik-Borse/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <div align="center">
-
+-->
 ## ⭐ Thanks for Visiting!
 
 ### Always open to meaningful collaborations, innovative ideas, and exciting opportunities.
