@@ -24,8 +24,6 @@ Building modern, scalable, and user-centric web applications with the MERN Stack
 
 ---
 
-
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -46,8 +44,6 @@ Building modern, scalable, and user-centric web applications with the MERN Stack
 <img src="https://komarev.com/ghpvc/?username=Kartik-Borse&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
-
----
 
 <div align="center">
 ## 🚀 Featured Projects
@@ -99,7 +95,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 </td>
 </tr>
 </table>
-
+--
 ## ⭐ Thanks for Visiting!
 
 ### Always open to meaningful collaborations, innovative ideas, and exciting opportunities.
