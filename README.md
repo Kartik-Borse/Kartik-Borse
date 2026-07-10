@@ -101,7 +101,7 @@ An AI-powered platform for DSA, aptitude, Core CS, coding practice, and intervie
 
 **Tech Stack:** React • TypeScript • Node.js • PostgreSQL • Gemini AI
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prepos-two.vercel.app/dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prepo-two.vercel.app/dashboard)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kartik-Borse/PrepOS)
 
