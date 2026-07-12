@@ -38,8 +38,8 @@ Building modern, scalable, and user-centric web applications with the MERN Stack
 <a href="https://github.com/Kartik-Borse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kartikborse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://leetcode.com/u/kartikborse"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<!-- &nbsp;
+<a href="https://leetcode.com/u/kartikborse"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> -->
 </p>
 
 <div align="center">
